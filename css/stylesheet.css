@@ -7,13 +7,120 @@
 }
 
 h1{
-    max-width: 1237px;
-    width: 100%;
+    margin-left: 341px;
+    margin-right: 341px;
     height: 86px;
     color: #000000;
     text-align: center;
     margin-bottom: 19px;
-    display: block;
 
 }
+
+h2{
+    font-size: 40px;
+    text-align: center;
+    color: #000000;
+    margin-top: 12px;
+    margin-bottom: 16px;
+    text-align: center;
+    
+
+}
+
+#night-sky-box{
+    height: 882px;
+    align-self: stretch;
+    margin-left: 55px;
+    max-width: 568px;
+
+ }
+
+ p{
+    color: #414651;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 32px;
+
+ }
+
+ #Description_of_creation{
+    color: #155EEF;
+    font-size: 16px;
+    font-weight: 400;
+    align-self: stretch;
+    margin-bottom: 32px;
+ }
+
+ #button-box{
+    border: 2px solid #CEA201;
+    display: inline;
+    width: 56px;
+    height: 177px;
+    padding: 12px 32px; 
+    text-decoration: none;
+    margin-bottom: 56px;
+ }
+ 
+ #button-klik{
+    color: #CEA201;
+   
+}
+
+#magic-conteiner{
+    max-width: 722px;
+    height: 1156px;
+    margin-left: 55px;
+
+}
+
+#magic-title{
+    color: #000;
+    font-family: lato;
+    font-size: 40px;
+    font-weight: 700;
+    width: 100%;
+    box-sizing: content-box;
+}
+
+#magic-text{
+    font-size: 20px;
+    font-weight: 400;
+    color: #414651;
+    width: 100%;
+}
+
+#work-title{
+   color: #00C76E;
+   text-align: center;
+   font-family: Lato;
+   font-size: 20px;
+   font-style: normal;
+   font-weight: 400;
+   line-height: 24px;
+   margin: 16px;
+
+}
+
+#Description_of_the_molecule{
+    color: #FF5DA3;
+    width: 461px;
+    font-size: 16px;
+    margin-top: 16px;
+    text-align: center;
+    display: inline-block;
+    margin-left: 120px;
+    margin-bottom: 24px;
+    
+}
+
+#butterfly_foto{
+    width: 200px;
+    height: 200px;
+    margin-left: 55px;
+    margin-bottom: 24px;
+}
+
+
+ 
 
